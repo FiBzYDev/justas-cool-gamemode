@@ -8,7 +8,7 @@ includes almost all of justas code and fixes
 
 Added
 - momentum mod hud (by justa)
-- crouch boost fixes (by fibzy)
+- crouch boost fixes [This is broken on pG Gamemode] (by fibzy)
 - RNGFix - Downhill now has no prediction errors (by claz - Niflheimrx)
 - Flow zone texture fix (fibzy)
 - Movement fixes / nulls  (by bigdogmatt - justa - Niflheimrx - fibzy)
