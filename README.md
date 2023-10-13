@@ -9,7 +9,7 @@ includes almost all of justas code and fixes
 Added
 - momentum mod hud (by justa)
 - crouch boost fixes (by fibzy)
-- RNGFix by (by claz - Niflheimrx)
+- RNGFix - Downhill now has no prediction errors (by claz - Niflheimrx)
 - Flow zone texture fix (fibzy)
 - Movement fixes / nulls  (by bigdogmatt - justa - Niflheimrx - fibzy)
 - WR Replay Names outside of server (justa - Niflheimrx - DotShark )
