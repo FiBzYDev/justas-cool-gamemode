@@ -24,6 +24,7 @@ Added
 
   Comes with
 
+  custom workshop fixes
   database
   sv.db
   lua bin files
