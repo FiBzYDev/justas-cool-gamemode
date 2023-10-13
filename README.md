@@ -33,3 +33,7 @@ Added
   Note: this was made for Linux Server ONLY*
 
   +sv_maxspeed 9000000 - you can only change this value in  command start
+
+My custom workshop addons here
+
+https://steamcommunity.com/id/FiBzY_Dev/myworkshopfiles/?appid=4000
