@@ -10,6 +10,7 @@ Added
 - momentum mod hud (by justa)
 - crouch boost fixes [This is broken on pG Gamemode] (by fibzy)
 - RNGFix - Downhill now has no prediction errors (by claz - Niflheimrx)
+- rawinput2 - (fiibzy)
 - Flow zone texture fix (fibzy)
 - Movement fixes / nulls  (by bigdogmatt - justa - Niflheimrx - fibzy)
 - WR Replay Names outside of server (justa - Niflheimrx - DotShark )
