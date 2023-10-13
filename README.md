@@ -21,6 +21,8 @@ Added
 - Improved Movement Angle bases off justa's with clacview (justa - fibzy)
 - Improved Segment  (justa - fibzy)
 - Added green showtriggers (justa - fibzy)
+- Custom FoV Changer [kawaii_fov] (fibzy - lenny)
+
 
   Comes with
 
