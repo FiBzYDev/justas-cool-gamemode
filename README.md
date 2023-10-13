@@ -1,3 +1,21 @@
-justa's cool gamemode v 1.4.0
+"justa's cool gamemode" v 1.4.2
 
 Unreleased - https://steamcommunity.com/id/FiBzY_JCS/ 
+
+This gamemode was edited and heavy modified from kawaiiclan gamemode
+
+includes almost all of justas code and fixes
+
+Added
+- momentum mod hud (by justa)
+- crouch boost fixes (by fibzy)
+- RNGFix by (by claz - Niflheimrx)
+- Movement fixes / nulls  (by bigdogmatt - justa - Niflheimrx - fibzy)
+- WR Replay Names outside of server (justa - Niflheimrx - DotShark )
+- Improved zone detection (justa - fibzy)
+- Round Error Fixes (Niflheimrx)
+- Improved score board based off justa's (fibzy)
+- jhud updates based off justa's (justa - fibzy)
+- Telefix updates (fibzy)
+- Improved Movement Angle bases off justa's with clacview (justa - fibzy)
+- Improved Segment  (justa - fibzy)
