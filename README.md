@@ -19,3 +19,4 @@ Added
 - Telefix updates (fibzy)
 - Improved Movement Angle bases off justa's with clacview (justa - fibzy)
 - Improved Segment  (justa - fibzy)
+- Added green showtriggers (justa - fibzy)
