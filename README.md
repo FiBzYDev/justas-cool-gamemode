@@ -28,6 +28,7 @@ Added
   database
   sv.db
   lua bin files
+  custom server.cfg
 
   Note: this was made for Linux Server ONLY*
 
